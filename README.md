@@ -97,13 +97,6 @@ To evaluate the accuracy and effectiveness of the model:
 
 ---
 
-## 📁 Project Structure
-
-📦 recommendation-system ├── data/ │ └── amazon_ratings.csv ├── notebooks/ │ ├── rank_based_recommendation.ipynb │ ├── similarity_based_cf.ipynb │ └── model_based_cf_svd.ipynb ├── src/ │ └── recommend.py ├── utils/ │ └── preprocessing.py ├── requirements.txt └── README.md
-
-
----
-
 ## 📌 Key Takeaways
 
 - Handled **cold start**, **scalability**, and **sparsity** problems using different techniques.
